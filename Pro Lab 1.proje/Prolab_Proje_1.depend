@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1446939442 source:i:\prolab_proje_1\main.c
+	<ctype.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+
+1447018111 source:c:\users\emre\desktop\prolab_proje_1\main.c
+	<ctype.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+
+1447024734 source:c:\users\emre\desktop\arda_ile_final_deneme\main.c
+	<ctype.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+
+1447032143 source:c:\users\emre\desktop\last nÝght fÝnal\main.c
+	<ctype.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+
+1447063077 source:c:\users\emre\desktop\pro lab 1.proje\main.c
+	<ctype.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+
+1449683414 source:c:\users\mertt\desktop\2.sinif dersler\projeler\1.proje\proje_teslim\pro lab 1.proje\main.c
+	<ctype.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+
+1449684254 source:c:\users\mertt\desktop\masaüstü\2.sinif dersler\projeler\1.proje\proje_teslim\pro lab 1.proje\main.c
+	<ctype.h>
+	<allegro.h>
+	<stdio.h>
+	<math.h>
+

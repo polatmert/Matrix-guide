@@ -1,0 +1,51 @@
+140201062 - Hüseyin Emre ÖZHAN
+
+140201001 - Hüsnü Mert POLAT
+
+PROJE ADI:Matris Rehberi
+
+
+PROJEYÝ ÇALIÞTIRMAK ÝÇÝN KURULMASI GEREKEN PROGRAMLAR:
+
+1)Program Kaynak Kodlarýný çalýþtýrmak için Codeblocks (v13.12) IDE kullanýlmýþtýr
+2) "C:\Windows"  uzantýsý içerisinde
+  
+    -alld42.dll
+    -alleg42.dll
+    -allp42.dll
+	
+	dll dosyalarý bulunmalýdýr
+
+3)"C:\Program Files (x86)\CodeBlocks\MinGW\include" uzantýsýnda 
+allegro kütüphanesine ait 'include' klasörü  bulunmalýdýr
+
+4)"C:\Program Files (x86)\CodeBlocks\MinGW\lib" uzantýsýnda 
+ -libaldat.a
+ -liballd.a
+ -liballd_s.a
+ -liballeg.a
+ -liballeg_s.a
+ -liballp.a
+ -liballp_s.a
+dosylarý bulunmalýdýr.
+
+5)Gerekli kurulum dosyalarý 'Allegro Kurulum Dosyalarý' adýndaki klasörde bulunmakta
+6)Allegro kurulumun videolu anlatýmý
+ 	https://www.youtube.com/watch?v=pbTY5-LuuJU
+
+PROJE ÇALIÞTIRMA ADIMLARI:
+
+1) Yön tuþlarý ile matrisin boyutunun girilmesi
+
+2) Girilen matris için yapýlmasý gereken iþlemin seçilmesi
+
+3) Matris elemanlarýnýn girilmesi
+
+4) Matrisin seçilen iþleme göre fonksiyona gönderilip sonuçlarýnýn fonksiyona baðlý .txt uzantýlý dosyaya yazdýrýlmasý
+
+
+
+
+ 
+
+
